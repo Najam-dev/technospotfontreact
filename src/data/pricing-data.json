@@ -1,0 +1,111 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "course-title": "Flutter",
+            "discount": "25% off",
+            "price": {
+                "old": "10,000",
+                "new": "7,500"
+            },
+            "features": [
+                "Installments Available",
+                "Basic to advance level",
+                "Firebase integration",
+                "Project based learning",
+                "Independant Income",
+                "Github Portfolio"
+            ]
+        },
+
+        {
+            "id": 2,
+            "course-title": "Graphics Design",
+            "discount": "Coming Soon",
+            "price": {
+                "old": "5,000",
+                "new": "3,750"
+            },
+            "features": [
+                "Installments Available",
+                "Basic to advance level",
+                "Logo to mockup complete branding",
+                "Photoshop and Illustrator",
+                "Independant Income",
+                "Freelance profile or NFT launch"
+            ]
+        },
+
+        {
+            "id": 3,
+            "course-title": "UI/UX design",
+            "discount": "Coming Soon",
+            "price": {
+                "old": "7,500",
+                "new": "5,000"
+            },
+            "features": [
+                "Installments Available",
+                "Basic to advance level",
+                "Beautiful User Interface Design",
+                "Grip on Adobe XD and other tools",
+                "Independant Income",
+                "Behance and Dribble Portfolio"
+            ]
+        },
+
+        {
+            "id": 4,
+            "course-title": "Mobile Game Dev.",
+            "discount": "25% off",
+            "price": {
+                "old": "15,000",
+                "new": "25,000"
+            },
+            "features": [
+                "Installments Available",
+                "Basic to advance level",
+                "Code once export for both mobile & OS",
+                "3D Modelling and Animation",
+                "Independant Income",
+                "Live game on Playstore"
+            ]
+        },
+
+        {
+            "id": 5,
+            "course-title": "Data Science",
+            "discount": "25% off",
+            "price": {
+                "old": "10,000",
+                "new": "15,000"
+            },
+            "features": [
+                "Installments Available",
+                "Basic to advance level",
+                "Python Basics",
+                "Data Analysis",
+                "Independant Income",
+                "Github Portfolio"
+            ]
+        },
+
+        {
+            "id": 6,
+            "course-title": "Spoken English",
+            "discount": "25% off",
+            "price": {
+                "old": "5,000",
+                "new": "7,000"
+            },
+            "features": [
+                "Installments Available",
+                "Basic to advance level",
+                "Firebase integration",
+                "Project based learning",
+                "Independant Income",
+                "PTE Training"
+            ]
+        }
+    ]
+}
