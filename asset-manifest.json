@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/technospotfontreact/static/css/main.e6c13ad2.css",
+    "main.js": "/technospotfontreact/static/js/main.2ab8f023.js",
+    "static/js/787.8a3e347d.chunk.js": "/technospotfontreact/static/js/787.8a3e347d.chunk.js",
+    "index.html": "/technospotfontreact/index.html",
+    "main.e6c13ad2.css.map": "/technospotfontreact/static/css/main.e6c13ad2.css.map",
+    "main.2ab8f023.js.map": "/technospotfontreact/static/js/main.2ab8f023.js.map",
+    "787.8a3e347d.chunk.js.map": "/technospotfontreact/static/js/787.8a3e347d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2ab8f023.js"
+  ]
+}
